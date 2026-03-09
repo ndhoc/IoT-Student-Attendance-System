@@ -130,7 +130,7 @@ This project is a collaborative effort by the following individuals:
 > 🌐 Contact: [GitHub: *ledanghoanganh*](https://github.com/ledanghoanganh) / [Email: *leanhhoang145@gmail.com*](mailto:leanhhoang145@gmail.com)
 
 
-* **Trần Công Khánh (NCK)** — Project Coordinator & Flex Developer
+* **Trần Công Khánh (NCK)** — Project Coordinator & Flex Developer & Product demo presenter
 > 🌐 Contact: [GitHub: *TranKhanh206*](https://github.com/TranKhanh206) / [Email: *trancongkhanh2006.tn@gmail.com*](mailto:trancongkhanh2006.tn@gmail.com)
 
 
@@ -138,7 +138,7 @@ This project is a collaborative effort by the following individuals:
 > 🌐 Contact: [GitHub: *nguyenbanam272-cyber*](https://github.com/nguyenbanam272-cyber) / [Email: *nguyenbanam272@gmail.com*](mailto:nguyenbanam272@gmail.com)
 
 
-* **Phan Khánh An (ap991)** — Firmware & Frontend & & Product demo presenter
+* **Phan Khánh An (ap991)** — Firmware & Frontend 
 > 🌐 Contact: [GitHub: *anphan991*](https://github.com/anphan991) / [Email: *an0915129080@gmail.com*](mailto:an0915129080@gmail.com)
 
 

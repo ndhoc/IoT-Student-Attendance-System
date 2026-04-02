@@ -35,30 +35,7 @@ IoT_Attendance_Project/
 │   ├── iot_pdf_latex_nhom9.pdf
 │   ├── iot_ppt_nhom9.pptx
 │   ├── img/
-│       ├── Lưu đồ thuật toán xử lý điểm danh trên Server (FastAPI).png
-│       ├── Lưu đồ truyền tải mạng ngầm ESP32 (Core 0 - TaskUpload).png
-│       ├── Lưu đồ xác thực đăng nhập Giao diện Web (Frontend).png
-│       ├── Lưu đồ xử lý chính của ESP32 (Core 1 - Quét thẻ & Hiển thị).png
-│       ├── Screenshot 2026-03-01 200038.png
-│       ├── confirm.png
-│       ├── darkmode.png
-│       ├── dashboard.png
-│       ├── data_schema.png
-│       ├── erd.png
-│       ├── error_login.png
-│       ├── esp32-so-do-chan-1.jpg
-│       ├── freertos.jpg
-│       ├── hcmute_logo.png
-│       ├── hugging_face.jpg
-│       ├── login.png
-│       ├── nguyen_ly_rfid.png
-│       ├── rfid_tag.png
-│       ├── so_do_khoi.png
-│       ├── spi.jpg
-│       ├── sucessful_login.png
-│       ├── supabase.jpg
-│       ├── tinh_chat_acid.png
-│       ├── wokwi.jpg
+│       ├── ...
 └── README.md
 ```
 

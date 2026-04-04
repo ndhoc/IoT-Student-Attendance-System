@@ -1,8 +1,8 @@
 # 🎓 Smart IoT Student Attendance System
 
 ![Version](https://img.shields.io/badge/version-2.5.0-blue)
-![Status](https://img.shields.io/badge/Status-Developing-yellow)
-![Tech](https://img.shields.io/badge/Tech-ESP32%20%7C%20FastAPI%20%7C%20Hybrid%20DB-orange)
+![Status](https://img.shields.io/badge/Status-Released-yellow)
+![Tech](https://img.shields.io/badge/Tech-ESP32%20%7C%20FastAPI%20%7C%20Hybrid%20DB,...-orange)
 
 This project implements an automated student attendance system using **RFID** technology, the **ESP32** microcontroller, and a modern **Web Dashboard**. It provides real-time attendance tracking, automated eligibility calculations for exams, and a streamlined interface for classroom management.
 
@@ -62,7 +62,7 @@ IoT_Attendance_Project/
 ### 💻 Frontend (Web Dashboard)
 
 * **Design:** Modern Glassmorphism with Plus Jakarta Sans typography.
-* **Core Features:** * **Dark Mode:** Dynamic theme switching for better user experience.
+* **Core Features:**  **Dark Mode:** Dynamic theme switching for better user experience.
 * **Custom UI:** Replaced native alerts with smooth Toast notifications and Custom Modals.
 * **Logic:** Automatic counting of students marked as "Ineligible for Exam" based on absence data.
 
@@ -120,7 +120,7 @@ IoT_Attendance_Project/
 
 You can explore the live simulation and hosted dashboard through the links below:
 
-* 📺 **Video Demonstration:** [Watch the Project Demo](https://drive.google.com/file/d/1cgF-O73P_ftSYYpptfA5xUpTB4Heaq7a/view?usp=sharing) — *A full walkthrough of the hardware scanning process and real-time dashboard updates.*
+* 📺 **Video Demonstration:** [Watch the Project Demo](https://drive.google.com/file/d/10L3jvclMYc2lfLkkUZcmZdWlb1N288H6/view?usp=sharing) — *A full walkthrough of the hardware scanning process and real-time dashboard updates.*
 * 🔌 **Wokwi Online Simulation:** [Launch ESP32 Simulation](https://wokwi.com/projects/454856473504871425) — *Interact with the virtual ESP32 and RFID logic directly in your browser | The demo only fetches the student list during active hours (07:30-11:00 and 12:45-17:00).*
 * 🚀 **Live Web Dashboard:** [Access IoT Attendance Portal](https://danganhle0623-iot.hf.space) — *The production-ready interface hosted on Hugging Face Spaces.(User name: admin, Password: 123456).*
 
@@ -130,24 +130,24 @@ You can explore the live simulation and hosted dashboard through the links below
 
 This project is a collaborative effort by the following individuals:
 
-* **Nguyễn Đức Học (hoc0g)** — Project Lead & API Developer
+* **Nguyễn Đức Học (hoc0g)** 
    
 > 🌐 Contact: [GitHub: *ndhoc*](https://github.com/ndhoc) / [Email: *duchoc2006@gmail.com*](mailto:duchoc2006@gmail.com)
 
 
-* **Lê Đặng Hoàng Anh (HAgudboi)** — Backend & System Architect
+* **Lê Đặng Hoàng Anh (HAgudboi)** 
 > 🌐 Contact: [GitHub: *ledanghoanganh*](https://github.com/ledanghoanganh) / [Email: *leanhhoang145@gmail.com*](mailto:leanhhoang145@gmail.com)
 
 
-* **Trần Công Khánh (NCK)** — Project Coordinator & Flex Developer & Product demo presenter
+* **Trần Công Khánh (NCK)** 
 > 🌐 Contact: [GitHub: *TranKhanh206*](https://github.com/TranKhanh206) / [Email: *trancongkhanh2006.tn@gmail.com*](mailto:trancongkhanh2006.tn@gmail.com)
 
 
-* **Nguyễn Bá Nam (xepNam)** — Project Manager & Documentation & Product demo presenter
+* **Nguyễn Bá Nam (xepNam)** 
 > 🌐 Contact: [GitHub: *nguyenbanam272-cyber*](https://github.com/nguyenbanam272-cyber) / [Email: *nguyenbanam272@gmail.com*](mailto:nguyenbanam272@gmail.com)
 
 
-* **Phan Khánh An (ap991)** — Firmware & Frontend 
+* **Phan Khánh An (ap991)**
 > 🌐 Contact: [GitHub: *anphan991*](https://github.com/anphan991) / [Email: *an0915129080@gmail.com*](mailto:an0915129080@gmail.com)
 
 ---

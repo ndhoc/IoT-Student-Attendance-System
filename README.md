@@ -29,6 +29,8 @@ IoT_Attendance_Project/
 ├── web/                  
 │   └── index.html        
 ├── docs/
+├   ├── CK/
+|       ├── ...  
 │   ├── IOT04_GK_NHOM09_WORD.docx
 │   ├── IOT04_GK_NHOM09_WORD.pdf
 │   ├── iot_latex_nhom9.tex
